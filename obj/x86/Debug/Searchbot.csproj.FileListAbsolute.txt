@@ -1,0 +1,33 @@
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\bin\Debug\Xearchbot.exe.config
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\bin\Debug\SearchbotData.sdf
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\bin\Debug\Xearchbot.exe
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\bin\Debug\Xearchbot.pdb
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Searchbot.csprojResolveAssemblyReference.cache
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Searchbot.Form1.resources
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Searchbot.Properties.Resources.resources
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Searchbot.csproj.GenerateResource.Cache
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Xearchbot.exe
+C:\Users\TEJASKUMAR\Downloads\googlebot_src\obj\x86\Debug\Xearchbot.pdb
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\bin\Debug\Xearchbot.exe.config
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Xearchbot.exe
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Xearchbot.pdb
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\bin\Debug\SearchbotData.sdf
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\bin\Debug\Xearchbot.exe
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\bin\Debug\Xearchbot.pdb
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Searchbot.csprojResolveAssemblyReference.cache
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Searchbot.Form1.resources
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Searchbot.Properties.Resources.resources
+D:\Projects\MiniProject 2 FIDSC\ProjectCode\FIDSC\obj\x86\Debug\Searchbot.csproj.GenerateResource.Cache
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\bin\Debug\Xearchbot.exe.config
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Xearchbot.exe
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Xearchbot.pdb
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\bin\Debug\SearchbotData.sdf
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\bin\Debug\Xearchbot.exe
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\bin\Debug\Xearchbot.pdb
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.csprojResolveAssemblyReference.cache
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.Properties.Resources.resources
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.csproj.GenerateResource.Cache
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.Crawling.resources
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.IndexCreation.resources
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\obj\x86\Debug\Searchbot.RefreshIndex.resources
+C:\Users\TEJASKUMAR\Documents\Visual Studio 2010\Projects\FIDSC\bin\Debug\MySql.Data.dll
